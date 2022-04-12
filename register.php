@@ -13,7 +13,7 @@
             <a href="reglement.html">Rules</a> |
             <a href="register.php">Register</a>
         </nav>
-        <h1>Registration:</h1>
+        <p><h1>Registration:</h1></p>
         <form action="register.php" method="post">
             <p>
                 <label for="firstname">Firstname:</label>

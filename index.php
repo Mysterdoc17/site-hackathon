@@ -14,9 +14,10 @@
         <a href="reglement.html">Rules</a> |
         <a href="register.php">Register</a>
     </nav>
-    <p></p>
     <h1>Welcome to the Health Hackathon website!</h1>
-    <h2>- Event's presentation:</h2>
+    <p>
+        <h2>Event's presentation :</h2>
+    </p>
     <p>The event will be on May 13th, 14th and 15th.</p>
     
     <?php
@@ -24,7 +25,6 @@
     require("site.php");
     $new_location = "index.php";
     redirect_to($new_location);
-
     ?>
 </body>
 </html>

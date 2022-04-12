@@ -10,6 +10,7 @@ nav {
     height: 60px;
     text-rendering: 2.5cm;
     width: 100%;
+    font-size: 51px;
     text-align: center;
     color: white;
 }
@@ -19,10 +20,12 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     color: #333;
-}
-
-h1 {
     text-align: center;
+    margin-block-end: auto;
+}
+p {
+    margin-bottom: 2em;
+    font-size: 22px;
 }
 a {
     color: white;

@@ -1,5 +1,14 @@
 # <center>Hackathon sur le thème de la santé</center>
 
+## 12042022 :
+
+- Modification du fichier ``index.php``
+- Modification du fichier `main.css`
+- Modification du fichier `prizes.html`
+- Modification du fichier `register.php`
+- Modification du fichier `reglement.html`
+- Modification du fichier `README.md`
+
 ## 11042022 :
 
 - Actualisation du fichier ``README.md``
