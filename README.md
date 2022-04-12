@@ -1,5 +1,16 @@
 # <center>Hackathon sur le thème de la santé</center>
 
+## 11042022 :
+
+- Actualisation du fichier ``README.md``
+- Ajout du fichier ``site.php``
+- Ajout du fichier ``index.php`` (remplacement du fichier ``index.html``)
+- Ajout du fichier ``register.php``
+    + récupération des données du formulaire
+    + vérification des données
+    + enregistrement des données dans la base de données
+- ajout du fichier ``health_hackathon_db.sql``
+
 ## 10042022 :
 
 - Actualisation du fichier ``README.md``
