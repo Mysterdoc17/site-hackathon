@@ -1,5 +1,9 @@
 # <center>Hackathon sur le thème de la santé</center>
 
+## 13042022 :
+
+- Modifications mineures
+
 ## 12042022 :
 
 - Modification du fichier ``index.php``
